@@ -2,7 +2,7 @@
 
 # Hi, I'm Vladyslav 👋
 
-CS student at **Kyiv School of Economics** · building backend, agents and small tools
+Software Engineering student at **Kyiv School of Economics** · building backend, agents and small tools
 
 </div>
 
@@ -10,12 +10,12 @@ CS student at **Kyiv School of Economics** · building backend, agents and small
 
 ### About me
 
-I'm a CS student focused mostly on backend and tooling: TypeScript/Node, Python and C#/.NET, with a C/C++ background from university coursework. Lately I've been building resilient API clients, an AI booking agent on Telegram, and a field-service SaaS product.
+I'm a Software Engineering student focused mostly on backend and tooling: TypeScript/Node, Python and C#/.NET, with a C/C++ background from university coursework. Lately I've been building resilient API clients, an AI booking agent on Telegram, and a field-service SaaS product.
 
 - 🔭 Currently working on **[FieldFlow](https://github.com/VladyslavHryn)** — a field-service management product
 - 🧪 Recently shipped **[resilient-api-client](https://github.com/VladyslavHryn/resilient-api-client)** — a fetch wrapper with timeouts, backoff and typed errors
 - 🤖 Built an **[AI booking agent](https://github.com/VladyslavHryn/restaurant-booking-agent)** that runs a real conversation over Telegram
-- 🎓 Studying Computer Science at KSE
+- 🎓 Studying Software Engineering at KSE
 
 ### Contact
 
