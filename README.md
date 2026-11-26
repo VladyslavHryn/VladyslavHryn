@@ -12,6 +12,7 @@ Software Engineering student at **Kyiv School of Economics** · building backend
 
 I'm a Software Engineering student focused mostly on backend and tooling: TypeScript/Node, Python and C#/.NET, with a C/C++ background from university coursework. Lately I've been building resilient API clients, an AI booking agent on Telegram, and a field-service SaaS product.
 
+- 💼 Working as a **Web Developer at Luxeo**
 - 🔭 Currently working on **[FieldFlow](https://tryfieldflow.tech/)** — a field-service management product, deployed and in use
 - 🧪 Recently shipped **[resilient-api-client](https://github.com/VladyslavHryn/resilient-api-client)** — a fetch wrapper with timeouts, backoff and typed errors
 - 🤖 Built an **[AI booking agent](https://github.com/VladyslavHryn/restaurant-booking-agent)** that runs a real conversation over Telegram
@@ -20,7 +21,7 @@ I'm a Software Engineering student focused mostly on backend and tooling: TypeSc
 ### Contact
 
 [![Email](https://img.shields.io/badge/Email-hrynvladyslav07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrynvladyslav07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-add%20your%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vladyslavhryn25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslavhryn25/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vladyslavhryn.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://vladyslavhryn.github.io/)
 
 ---
